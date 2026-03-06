@@ -1,4 +1,5 @@
 End-to-End Cardiovascular Risk Prediction: From Clinical Insights to Production ML
+
 Problem Statement:
 Cardiovascular diseases remain a leading cause of global mortality. The objective of this project is to build an end-to-end predictive system using population health survey data. This project bridges the gap between Clinical Data Science (discovering physiological patterns) and Machine Learning Engineering (deploying a scalable, production-ready prediction pipeline) to enable early medical intervention.
 
